@@ -79,7 +79,7 @@ Contributions are welcome! If you have ideas or improvements, feel free to open 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Datasets provided by [MovieLens](https://grouplens.org/datasets/movielens/).
+- Datasets provided by [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 - Inspiration from various online resources and open-source projects.
 
 ---
